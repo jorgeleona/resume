@@ -1,2 +1,2 @@
-# resume-site
+# resume
 Resume site project
